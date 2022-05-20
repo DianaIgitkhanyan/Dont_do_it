@@ -10,7 +10,6 @@ body
     font-weight: 700;
     font-size: 30.8354px;
     line-height: 122.33%;
-    /* identical to box height, or 38px */
     letter-spacing: -0.045em;
     color: #000000;  
 }
@@ -45,7 +44,6 @@ body
     font-weight: 600;
     font-size: 16px;
     line-height: 16px;
-    /* identical to box height, or 103% */
     text-align: center;
     color: #FFFFFF;
 }
@@ -56,7 +54,6 @@ body
     font-weight: 600;
     font-size: 100px;
     line-height: 122.35%;
-    /* or 122px */
     color: #000000;
     margin-top: 149px;
     margin-bottom: 0px;
